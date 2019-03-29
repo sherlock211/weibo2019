@@ -14,7 +14,7 @@
         </ul>
       </div>
     </nav>
-    <div>
+    <div class="container">
  @yield('content')
 </div>
 </body>
